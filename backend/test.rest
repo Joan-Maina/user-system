@@ -1,0 +1,8 @@
+
+POST http://localhost:8000/registration
+
+{
+    "username":"joan",
+    "email":"mainawanini@gmail.com",
+    "password":"joan"
+}
